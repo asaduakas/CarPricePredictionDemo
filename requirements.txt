@@ -1,0 +1,10 @@
+streamlit
+pillow
+numpy
+scikit-learn
+torch
+torchvision
+pandas
+numpy
+joblib
+fastai
